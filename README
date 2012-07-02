@@ -1,8 +1,2 @@
 Validator is a HTML-Formular validator written in Javascript.
 The idea was to write a script which is easily customiseable for any kind of validation on a html form.
-
-default validations provided:
-
-how to use it
-
-how to customize it
